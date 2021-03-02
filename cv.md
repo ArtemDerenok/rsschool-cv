@@ -23,3 +23,12 @@ for (let key in obj) {
   result += obj[key];
 }
 console.log(result);
+```
+### Personal qualities
+* responsible
+* analytical 
+* motivated 
+* goal-oriented 
+
+### English
+Pre-Intermediate(A2)
