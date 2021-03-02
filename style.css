@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(43, 42, 41);
+}
+.wrapper {
+  margin: auto;
+  width: 700px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px;
+  background-color: rgb(248, 224, 187);
+  padding-right: 40px;
+}
+.header__avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+.bold-font {
+  font-weight: bold;
+}
+.info__mainContent {
+  padding-left: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 20px;
+  background-color: rgb(248, 224, 187);
+}
+.skill-info {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 20px;
+  background-color: rgb(248, 224, 187);
+}
+.footer {
+  margin-top: -7px;
+  border-radius: 20px;
+  background-color: rgb(248, 224, 187);
+}
+.footer__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  padding: 15px;
+  padding-left: 0px;
+}
+.link {
+  padding: 10px;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+}
